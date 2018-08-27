@@ -25,15 +25,9 @@
   ],
   "require": {
     "jedrzej/sortable": "0.0.*",
-    "jedrzej/searchable": "dev-develop",
+    "jedrzej/searchable": "*",
     "jedrzej/withable": "0.0.*"
   },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/lloy0076/searchable.git"
-    }
-  ],
   "require-dev": {
     "codeception/codeception": "2.0.*",
     "codeception/specify": "*"
